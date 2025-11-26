@@ -1,2 +1,2 @@
-Story 1:
+## Story 1:
 Relativily simple task, I was pleased with how it went and how easy Tinkcard and the Arduino IDE were to use. 
