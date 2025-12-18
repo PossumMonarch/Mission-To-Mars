@@ -6,7 +6,7 @@ Relativily simple task, I was pleased with how it went and how easy Tinkcard and
 
 
 
-\## Story 2:
+## Story 2:
 
 The coding was very simple, the struggle was using Tinkcard to build an accurate example of what the 2 LED's would look like on an actual Arduino.
 
