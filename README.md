@@ -12,4 +12,4 @@ The coding was very simple, the struggle was using Tinkcard to build an accurate
 
 ## Story 3:
 
-Completed the task without issue after getting confused initially.
+Completed the task without issue after getting confused initially. Failed to use Git.
