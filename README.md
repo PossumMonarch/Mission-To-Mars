@@ -10,3 +10,6 @@ Relativily simple task, I was pleased with how it went and how easy Tinkcard and
 
 The coding was very simple, the struggle was using Tinkcard to build an accurate example of what the 2 LED's would look like on an actual Arduino.
 
+## Story 3:
+
+Completed the task without issue after getting confused initially.
