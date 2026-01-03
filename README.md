@@ -13,3 +13,7 @@ The coding was very simple, the struggle was using Tinkcard to build an accurate
 ## Story 3:
 
 Completed the task without issue after getting confused initially. Failed to use Git.
+
+## Story 4:
+
+I was confident on this task and did it easily. Once again failed to use Git.
