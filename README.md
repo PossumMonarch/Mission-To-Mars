@@ -17,3 +17,7 @@ Completed the task without issue after getting confused initially. Failed to use
 ## Story 4:
 
 I was confident on this task and did it easily. Once again failed to use Git.
+
+## Story 5:
+
+Using Git now seems to be impossible as it says that the tip of my current branch (main) is 'behind' despite me attempting to commit and push consistently. I have also been pulling before I push. From now on, all files will be uploaded remotely as it has the same end result. Additionally, I did not find use for the millis() code at all.
