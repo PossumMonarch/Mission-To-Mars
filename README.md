@@ -25,3 +25,7 @@ Using Git now seems to be impossible as it says that the tip of my current branc
 ## Story 6:
 
 Proud of my work on this one, felt I completed the task quickly and efficiently.
+
+## Story 7: 
+
+Again, felt I did well and didn't struggle with the task.
