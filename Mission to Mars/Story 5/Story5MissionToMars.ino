@@ -29,8 +29,8 @@ void left(int delaytime)
 {
 digitalWrite (LEFT_REV, LOW);
 digitalWrite (RIGHT_REV, LOW);
-analogWrite (LEFT_ENABLE, 200);
-analogWrite (RIGHT_ENABLE, 100);
+analogWrite (LEFT_ENABLE, 100);
+analogWrite (RIGHT_ENABLE, 200);
 digitalWrite (LEFT_FWD, HIGH);
 digitalWrite (RIGHT_FWD, HIGH);
 delay(delaytime);
@@ -40,8 +40,8 @@ void right(int delaytime)
 {
 digitalWrite (LEFT_REV, LOW);
 digitalWrite (RIGHT_REV, LOW);
-analogWrite (LEFT_ENABLE, 100);
-analogWrite (RIGHT_ENABLE, 200);
+analogWrite (LEFT_ENABLE, 200);
+analogWrite (RIGHT_ENABLE, 100);
 digitalWrite (LEFT_FWD, HIGH);
 digitalWrite (RIGHT_FWD, HIGH);
 delay(delaytime);
