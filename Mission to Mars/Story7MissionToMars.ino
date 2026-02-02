@@ -1,4 +1,5 @@
-
+const int RIGHT_FEEDBACK = 2;
+const int LEFT_FEEDBACK = 3;
 int LEFT_REV = 12;
 int LEFT_FWD = 11;
 int LEFT_ENABLE = 10
