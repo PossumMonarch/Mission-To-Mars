@@ -37,3 +37,8 @@ I like how this story tied in most of what I have learned so far.
 ## Story 9:
 
 Felt confident editing Story 8 to fit the criteria for Story 9.
+
+## Story 10:
+https://imgflip.com/i/aj197v
+https://imgflip.com/i/aj19dj
+https://imgflip.com/i/aj19hx
