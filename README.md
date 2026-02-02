@@ -29,3 +29,7 @@ Proud of my work on this one, felt I completed the task quickly and efficiently.
 ## Story 7: 
 
 Again, felt I did well and didn't struggle with the task.
+
+## Story 8:
+
+I like how this story tied in most of what I have learned so far.
