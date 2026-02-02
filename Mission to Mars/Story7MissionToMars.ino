@@ -1,3 +1,7 @@
+
+int LEFT_REV = 12;
+int LEFT_FWD = 11;
+int LEFT_ENABLE = 10
 int RIGHT_ENABLE = 9;
 int RIGHT_FWD = 8;
 int RIGHT_REV = 7;
