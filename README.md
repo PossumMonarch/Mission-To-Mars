@@ -33,3 +33,7 @@ Again, felt I did well and didn't struggle with the task.
 ## Story 8:
 
 I like how this story tied in most of what I have learned so far.
+
+## Story 9:
+
+Felt confident editing Story 8 to fit the criteria for Story 9.
