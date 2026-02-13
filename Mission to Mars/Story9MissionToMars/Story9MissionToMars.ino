@@ -60,7 +60,7 @@ void loop() {
   Serial.print("Ping: ");
   Serial.print(sonar.ping_cm()); 
   Serial.println("cm");
-  forward(100000000000000000);
+  forward(50);
   if(sonar.ping_cm() < 12){
     stop(2000);
     reverse(500);
