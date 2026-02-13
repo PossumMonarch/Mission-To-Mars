@@ -27,9 +27,9 @@ delay(delaytime);
 
 void turnleft(int delaytime)
 {
-digitalWrite (LEFT_REV, LOW);
+digitalWrite (LEFT_REV, HIGH);
 digitalWrite (RIGHT_REV, LOW);
-digitalWrite (LEFT_ENABLE, LOW);
+digitalWrite (LEFT_ENABLE, HIGH);
 digitalWrite (RIGHT_ENABLE, HIGH);
 digitalWrite (LEFT_FWD, LOW);
 digitalWrite (RIGHT_FWD, HIGH);
@@ -39,9 +39,9 @@ delay(delaytime);
 void turnright(int delaytime)
 {
 digitalWrite (LEFT_REV, LOW);
-digitalWrite (RIGHT_REV, LOW);
+digitalWrite (RIGHT_REV, HIGH);
 digitalWrite (LEFT_ENABLE, HIGH);
-digitalWrite (RIGHT_ENABLE, LOW);
+digitalWrite (RIGHT_ENABLE, HIGH);
 digitalWrite (LEFT_FWD, HIGH);
 digitalWrite (RIGHT_FWD, LOW);
 delay(delaytime);
