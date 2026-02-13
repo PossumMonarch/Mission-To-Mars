@@ -26,6 +26,17 @@ digitalWrite (RIGHT_FWD, HIGH);
 delay(delaytime);
 }
 
+void stop(int delaytime)
+{
+digitalWrite (LEFT_REV, LOW);
+digitalWrite (RIGHT_REV, LOW);
+digitalWrite (LEFT_ENABLE, LOW);
+digitalWrite (RIGHT_ENABLE, LOW);
+digitalWrite (LEFT_FWD, LOW);
+digitalWrite (RIGHT_FWD, LOW);
+delay(delaytime);
+}
+
 void LeftMotorISR() {
   leftcounter++;
 }
@@ -41,13 +52,15 @@ Serial.println(leftcounter);
 Serial.print("Right Counter");
 Serial.println(rightcounter);
 
-forward(1000000000000000000000);
+forward(50);
 
 if (leftcounter >= 870) {
+  stop(2000)
   exit(0);
 }
 
 if (rightcounter >= 870) {
+  stop(2000)
   exit(0);
 }
 }
